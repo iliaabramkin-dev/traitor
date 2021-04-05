@@ -1,4 +1,4 @@
-# Trait2or1
+# Tra3it2or1
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
